@@ -11,8 +11,15 @@ export const config = {
   recipientName: "Yuvraj",
 
   /** Your personal message (used in Mixtape lyrics, Sealed Letter, etc.) */
-  message:
-    "Somehow you entered my life years ago and became my best friend and the person my heart chooses every day. Loving you has been the most beautiful constant of my life, Happy Valentine’s Day to the man I call home <3",
+  message: [
+  "Somehow you entered my life years ago",
+  "and became my best friend",
+  "and the person my heart chooses every day",
+  "Loving you has been the most beautiful constant of my life",
+  "Happy Valentine's Day",
+  "to the man I call home 🧡",
+],
+
 
   /** Photo URLs for photo-heavy templates (Memory Cloud, Mixtape, 90s Desktop) */
   photos: [

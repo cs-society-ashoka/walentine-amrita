@@ -12,7 +12,7 @@ const Mixtape = () => {
   const audioRef = useRef(null);
   const skipRef = useRef(null);
 
-  const lyrics = config.message.split(/[.!?]+/).filter(Boolean).map((s) => s.trim());
+  const lyrics = config.message;
 
   const handleSkipHover = () => {
     if (!skipRef.current) return;
