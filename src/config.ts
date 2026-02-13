@@ -5,28 +5,28 @@
 
 export const config = {
   /** Your name */
-  senderName: "Granthana",
+  senderName: "Amrita",
 
   /** Your Valentine's name */
-  recipientName: "Ivirah",
+  recipientName: "Yuvraj",
 
   /** Your personal message (used in Mixtape lyrics, Sealed Letter, etc.) */
   message:
-    "-",
+    "Somehow you entered my life years ago and became my best friend and the person my heart chooses every day. Loving you has been the most beautiful constant of my life, Happy Valentine’s Day to the man I call home <3",
 
   /** Photo URLs for photo-heavy templates (Memory Cloud, Mixtape, 90s Desktop) */
   photos: [
-    "photos/photo1.jpeg",
-    "photos/photo2.jpeg",
-    "photos/photo3.jpeg",
-    "photos/photo4.png",
-    "photos/photo5.jpeg",
-    "photos/photo6.png",
-    "photos/photo7.jpeg",
-    "photos/photo8.jpeg",
+    "photos/67f3ec3f-0106-406f-833a-f433a3722377 - Amrita Seth.jpeg",
+    "photos/6c495a0b-bcbe-4c8a-abd0-567de1ce38c2 - Amrita Seth.jpeg",
+    "photos/IMG_2191 - Amrita Seth.jpeg",
+    "photos/IMG_4602 - Amrita Seth.jpeg",
+    "photos/IMG_4974 - Amrita Seth.jpeg",
+    "photos/IMG_4975 - Amrita Seth.jpeg",
+    "photos/IMG_8198 - Amrita Seth.jpeg",
+    "photos/IMG_9969 - Amrita Seth.jpeg",
 ],
 logo: "photos/logo.png",
-audioUrl: "audio/final_audio.mp3",
+audioUrl: "audio/Berlin - Take My Breath Away (Official Video - Top Gun).mp3",
 
   /** Receipt line items for "The Love Receipt" template */
   receiptItems: [
